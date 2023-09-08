@@ -1,12 +1,4 @@
-# Zenskar-App-Builder
-
-## Live Demo
-
-
-
-https://github.com/shreyT19/Zenskar-App-Builder/assets/116892456/ea3cd60e-8484-4d81-b946-864dcd14423a
-
-
+# App-Builder
 
 ## Implemented Features
 
